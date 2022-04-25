@@ -20,6 +20,7 @@
     justify-content: center;
     width: 100%;
     height: 30%;
+    padding: 0 5px;
 }
 
 .fileCard--bottom>p {

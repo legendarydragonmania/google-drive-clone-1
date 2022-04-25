@@ -19,3 +19,13 @@
 .newFile__container>p{
     margin-left: 14px;
 }
+
+.primaryBtn {
+    display: inline-block;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    color: #195ABD;
+    background-color: #F6F8FC;
+}

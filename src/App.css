@@ -1,3 +1,7 @@
+.app {
+max-width: 1263px;
+}
+
 .app__main {
     display: flex;
 }
